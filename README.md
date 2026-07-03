@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, soy Alex Magallanes Alejos</h1>
+<h2>  Bienvenido a mi Perfil</h2>
 
 
 
