@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alex Magallanes Alejos</h1>
-<h2>  Bienvenido a mi Perfil</h2>
+<h2  align = "center" >Bienvenido a mi Perfil</h2>
 
 
 
