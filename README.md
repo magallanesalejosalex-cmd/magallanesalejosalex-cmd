@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="#/" target="blank"><img src="#" alt="" /></a> </p>
+<p align="center"> <a href="#/" target="blank"><img src="#" alt="" /></a> </p>
 
 En este momento estoy trabajando en mi portafolio
 <h2  align = "center" >Mis Herrameintas de trabajo</h2>
